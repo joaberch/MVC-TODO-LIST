@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TODO-LIST/1.0.0": {
+        "runtime": {
+          "TODO-LIST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TODO-LIST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
